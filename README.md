@@ -1,8 +1,7 @@
 Logitech-Keep-Alive is an application that prevents the auto-shutoff feature of Logitech headsets/speakers.
 
-Version 1.0
-April 8, 2015
-Written by Alden Tai
+v1.0, April 8, 2015, Written by Alden Tai
+
 URL: https://github.com/aktai0/Logitech-Keep-Alive
 
 System Requirements:
